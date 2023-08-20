@@ -1,2 +1,2 @@
 # Newspedia
- a news website which fetch world news with the help of some news API, presented  in some good UI
+ a news website that fetches world news with the help of  news API, presented  in some good UI
